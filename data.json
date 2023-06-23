@@ -1,0 +1,402 @@
+[
+    {
+        "id": "varilla-01",
+        "titulo": "Varilla corrugada de acero",
+        "imagen": "https://panelconstructor.com.co/wp-content/uploads/2021/08/varilla-corrugada.png",
+        "categoria": {
+            "nombre": "Varilla",
+            "id": "varilla"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "varilla-02",
+        "titulo": "Varilla grafilada",
+        "imagen": "https://gyj.com.co/media/catalog/product/cache/262d436670aa5f9f03db8647cfca44a5/v/a/varilla-grafilada-aceros-2-gyj.jpg",
+        "categoria": {
+            "nombre": "Varilla",
+            "id": "varilla"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "varilla-03",
+        "titulo": "Varilla acero galvanizado",
+        "imagen": "https://www.futureglassblock.com/wp-content/uploads/2019/02/accesorios-varilla-galvanizada-lisa-6-mm.jpg",
+        "categoria": {
+            "nombre": "Varilla",
+            "id": "varilla"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "varilla-04",
+        "titulo": "Varilla de tensión",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_724990-CBT69608678065_052023-O.webp",
+        "categoria": {
+            "nombre": "Varilla",
+            "id": "varilla"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "varilla-05",
+        "titulo": "Varilla de cobre sólido",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_816026-MCO47123477622_082021-O.webp",
+        "categoria": {
+            "nombre": "Varilla",
+            "id": "varilla"
+        },
+        "precio": 18000
+    },
+    {
+        "id": "varilla-06",
+        "titulo": "Varilla fibra de vidrio",
+        "imagen": "https://www.pontejos.com/111726-thickbox_default/varilla-de-fibra-de-vidrio-para-estor.jpg",
+        "categoria": {
+            "nombre": "Varilla",
+            "id": "varilla"
+        },
+        "precio": 40000
+    },
+    {
+        "id": "varilla-07",
+        "titulo": "Varilla de acero negro",
+        "imagen": "https://gyj.com.co/media/catalog/product/cache/4a9d2bb5363dcc35e86211f80ce57e66/p/e/perfil-c-1-gyj_6.jpg",
+        "categoria": {
+            "nombre": "Varilla",
+            "id": "varilla"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "varilla-08",
+        "titulo": "Varilla de latón macizo",
+        "imagen": "https://m.media-amazon.com/images/I/6136bkBnyGL.jpg",
+        "categoria": {
+            "nombre": "Varilla",
+            "id": "varilla"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "varilla-09",
+        "titulo": "Varilla de hierro forjado",
+        "imagen": "https://dpbfouxy1lg2q.cloudfront.net/22494/22494-1.webp",
+        "categoria": {
+            "nombre": "Varilla",
+            "id": "varilla"
+        },
+        "precio": 28000
+    },
+    {
+        "id": "varilla-10",
+        "titulo": "Varilla plástico reforzado",
+        "imagen": "https://image.made-in-china.com/2f0j00GOLTgElHTicQ/3-8-Inch-Diameter-Solid-Fiberglass-Rod-FRP-Rod.webp",
+        "categoria": {
+            "nombre": "Varilla",
+            "id": "varilla"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "reja-01",
+        "titulo": "Reja de hierro forjado",
+        "imagen": "https://www.forjarafael.com/2174-tm_home_default/reja-de-hierro-forjado-r0001.jpg",
+        "categoria": {
+            "nombre": "Reja",
+            "id": "reja"
+        },
+        "precio": 500000
+    },
+    {
+        "id": "reja-02",
+        "titulo": "Reja acero galvanizado",
+        "imagen": "https://tumaac.com/images/portfolio/4/4-7.jpg",
+        "categoria": {
+            "nombre": "Reja",
+            "id": "reja"
+        },
+        "precio": 700000
+    },
+    {
+        "id": "reja-03",
+        "titulo": "Reja de aluminio lanza",
+        "imagen": "https://i.pinimg.com/736x/6e/1c/4a/6e1c4ae09b2a9ca2ef74b98ff41f50be.jpg",
+        "categoria": {
+            "nombre": "Reja",
+            "id": "reja"
+        },
+        "precio": 600000
+    },
+    {
+        "id": "reja-04",
+        "titulo": "Reja de malla metálica",
+        "imagen": "https://img.freepik.com/vector-premium/reja-metal-rabitz-eslabon-cadena-rejilla-metalica-cerca-alambre-trenzado-textura-fondo-jaula-eslabon-cadena-metal-valla-malla-metalica-barrera-prision-propiedad-asegurada_435184-441.jpg",
+        "categoria": {
+            "nombre": "Reja",
+            "id": "reja"
+        },
+        "precio": 800000
+    },
+    {
+        "id": "reja-05",
+        "titulo": "Reja hierro macizo",
+        "imagen": "https://www.aberturastorri.com.ar/sitio/wp-content/uploads/2016/10/586-logo.jpg",
+        "categoria": {
+            "nombre": "Reja",
+            "id": "reja"
+        },
+        "precio": 900000
+    },
+    {
+        "id": "reja-06",
+        "titulo": "Reja acero inoxidable",
+        "imagen": "https://cdn2.hubspot.net/hubfs/6430607/01%20-%20Blog/Reja%20de%20acero%20gris%20blog.jpg",
+        "categoria": {
+            "nombre": "Reja",
+            "id": "reja"
+        },
+        "precio": 750000
+    },
+    {
+        "id": "reja-07",
+        "titulo": "Reja hierro galvanizado",
+        "imagen": "https://jacomgroup.com/wp-content/uploads/2016/10/Malla-modular-para-cerramiento-700x371-01-1024x543.jpg",
+        "categoria": {
+            "nombre": "Reja",
+            "id": "reja"
+        },
+        "precio": 650000
+    },
+    {
+        "id": "reja-08",
+        "titulo": "Reja aluminio barrotes",
+        "imagen": "data:image/jpeg;base64,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",
+        "categoria": {
+            "nombre": "Reja",
+            "id": "reja"
+        },
+        "precio": 550000
+    },
+    {
+        "id": "reja-09",
+        "titulo": "Reja forjada con remaches",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_603381-MLA26397293024_112017-O.webp",
+        "categoria": {
+            "nombre": "Reja",
+            "id": "reja"
+        },
+        "precio": 850000
+    },
+    {
+        "id": "reja-10",
+        "titulo": "Reja de acero con ondas",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_979916-MLA51345435131_082022-O.webp",
+        "categoria": {
+            "nombre": "Reja",
+            "id": "reja"
+        },
+        "precio": 750000
+    },
+    {
+        "id": "tornillo-01",
+        "titulo": "Tornillo autorroscante plano",
+        "imagen": "https://www.richelieu.com/documents/docsGr/129/816/5/1298165/1687694_700.jpg",
+        "categoria": {
+            "nombre": "Tornillo",
+            "id": "tornillo"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "tornillo-02",
+        "titulo": "Tornillo avellanado para madera",
+        "imagen": "https://picupfiles.episer.com/filesPicup/FILES/NIV_IMG/DEF_NIV_031044_S_1_TORNILLO%20DIN%2097%20(PARA%20MADERA)_.JPG",
+        "categoria": {
+            "nombre": "Tornillo",
+            "id": "tornillo"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "tornillo-03",
+        "titulo": "Tornillo hexagonal acero",
+        "imagen": "https://m.media-amazon.com/images/I/61-frM6pg+L._AC_UF894,1000_QL80_.jpg",
+        "categoria": {
+            "nombre": "Tornillo",
+            "id": "tornillo"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "tornillo-04",
+        "titulo": "Tornillo de expansión concreto",
+        "imagen": "https://www.imporpernos.com/image/cache/catalog/products/anchors/wedge_anchor-450x450.jpg",
+        "categoria": {
+            "nombre": "Tornillo",
+            "id": "tornillo"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "tornillo-05",
+        "titulo": "Tornillo autorroscante metal",
+        "imagen": "https://www.precision-hardware-manufacturer.com/uploads/202216102/self-drilling-screw-metal-roofing-screws34202525429.jpg",
+        "categoria": {
+            "nombre": "Tornillo",
+            "id": "tornillo"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "tornillo-06",
+        "titulo": "Tornillo de banco carpentería",
+        "imagen": "https://www.piher.com/692-large_default/husillo-de-banco-de-carpintero.jpg",
+        "categoria": {
+            "nombre": "Tornillo",
+            "id": "tornillo"
+        },
+        "precio": 40000
+    },
+    {
+        "id": "tornillo-07",
+        "titulo": "Tornillo trompeta para yeso",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_699788-MLA31312763594_072019-O.webp",
+        "categoria": {
+            "nombre": "Tornillo",
+            "id": "tornillo"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "tornillo-08",
+        "titulo": "Tornillo expansión pared hueca",
+        "imagen": "https://ae01.alicdn.com/kf/HTB1LvOfKruWBuNjSszgq6z8jVXaU.jpg_640x640q90.jpg?width=619&height=509&hash=1128",
+        "categoria": {
+            "nombre": "Tornillo",
+            "id": "tornillo"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "tornillo-09",
+        "titulo": "Tornillo para techo zinc",
+        "imagen": "https://shopinagro.com/6122-medium_default/pack-100-tornillos-para-techos-chex-auto-taladrante-con-arandela.jpg",
+        "categoria": {
+            "nombre": "Tornillo",
+            "id": "tornillo"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "tornillo-10",
+        "titulo": "Tornillo hexagonal de seguridad",
+        "imagen": "https://i0.wp.com/zonahobbies.com/store/wp-content/uploads/2015/11/4666-4-Tornillos-5-x-28-mm-con-Tuerca-de-seguridad.jpg?fit=1500%2C1500&ssl=1",
+        "categoria": {
+            "nombre": "Tornillo",
+            "id": "tornillo"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "herramienta-01",
+        "titulo": "Martillo de carpintero",
+        "imagen": "https://www.tuherramienta.net/wp-content/uploads/2018/10/Martillo-de-carpintero_opt.jpg",
+        "categoria": {
+            "nombre": "Herramienta",
+            "id": "herramienta"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "herramienta-02",
+        "titulo": "Destornillador punta plana",
+        "imagen": "https://colombia.urrea.com/wp-content/uploads/2022/01/D230.jpg",
+        "categoria": {
+            "nombre": "Herramienta",
+            "id": "herramienta"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "herramienta-03",
+        "titulo": "Llave ajustable",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_888381-MCO46771620388_072021-O.webp",
+        "categoria": {
+            "nombre": "Herramienta",
+            "id": "herramienta"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "herramienta-04",
+        "titulo": "Sierra de mano",
+        "imagen": "https://m.media-amazon.com/images/I/71MTvCkk8SL.jpg",
+        "categoria": {
+            "nombre": "Herramienta",
+            "id": "herramienta"
+        },
+        "precio": 40000
+    },
+    {
+        "id": "herramienta-05",
+        "titulo": "Alicates de corte",
+        "imagen": "https://www.loencuentras.com.co/1156-large_default/alicate-de-corte-frio-comfort-grip.jpg",
+        "categoria": {
+            "nombre": "Herramienta",
+            "id": "herramienta"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "herramienta-06",
+        "titulo": "Cinta métrica",
+        "imagen": "https://bravoindustrial.com/609-large_default/cinta-metrica-3m-x-1-2-pulg-30-608-stanley.jpg",
+        "categoria": {
+            "nombre": "Herramienta",
+            "id": "herramienta"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "herramienta-07",
+        "titulo": "Nivel de burbuja",
+        "imagen": "https://m.media-amazon.com/images/I/616eVlTjMxL._AC_UF1000,1000_QL80_.jpg",
+        "categoria": {
+            "nombre": "Herramienta",
+            "id": "herramienta"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "herramienta-08",
+        "titulo": "Taladro eléctrico",
+        "imagen": "https://ronixtools.com/es/news/wp-content/uploads/2021/11/original-637604114535943504-1.jpg",
+        "categoria": {
+            "nombre": "Herramienta",
+            "id": "herramienta"
+        },
+        "precio": 150000
+    },
+    {
+        "id": "herramienta-09",
+        "titulo": "Llave inglesa",
+        "imagen": "https://m.media-amazon.com/images/I/51ukwx5KQBL._AC_UF894,1000_QL80_.jpg",
+        "categoria": {
+            "nombre": "Herramienta",
+            "id": "herramienta"
+        },
+        "precio": 35000
+    },
+    {
+        "id": "herramienta-10",
+        "titulo": "Cincel de madera",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_964537-CBT46310497865_062021-O.webp",
+        "categoria": {
+            "nombre": "Herramienta",
+            "id": "herramienta"
+        },
+        "precio": 20000
+    }
+]
